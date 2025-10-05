@@ -1,62 +1,51 @@
+[Your Name] - Data Analysis Portfolio
+Welcome! This repository contains the complete template for a professional, one-page data analysis portfolio website, hosted for free on GitHub Pages.
 
-## Hi there, I'm Zekiah Virella 👋
+About This Portfolio Template
+This portfolio is designed to demonstrate skills in:
 
-<div align="center">
-  <!--  You can customize the typing text in the "lines=" section of the URL below -->
-  <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;[Your+Specialty+Here];[Your+Experience+or+Tagline]" alt="Typing SVG" />
-</div>
+Data visualization and storytelling
+Data modeling and analysis
+Creating interactive, professional dashboards
+Transforming complex data into actionable insights
+🚀 Projects
+This template is set up to showcase your best work. You can easily customize the project cards in the index.html file.
 
-<!-- 🔗 Update these links with your own social media and contact information -->
-<p align="center">
-  <a href="www.linkedin.com/in/zekiah-virella-7b2237197"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:ZekiahVirella@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
-</p>
+Project Title One
+A brief description of your project, the tools used, and the key insights derived.
 
-## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+Project Title Two
+A brief description of your project, the tools used, and the key insights derived.
 
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future. My journey into data analytics started with a simple curiosity: I wanted to understand the stories hidden in numbers. Over time, that curiosity grew into a passion for uncovering patterns, solving problems, and turning complex data into clear insights. I enjoy creating dashboards, models, and visualizations that not only highlight trends but also make information meaningful for both technical and non-technical audiences. For me, data isn’t just numbers—it’s a way to answer questions, tell stories, and guide smarter decisions.
-When I'm not working with data, I enjoy cooking new foods and solving puzzles. I love the "aha!" moment when data reveals something new and useful.
+Project Title Three
+A brief description of your project, the tools used, and the key insights derived.
 
+🛠️ Skills
+Update the index.html file to reflect your personal technical skillset. The template is organized into key categories:
 
+Data Visualization: Power BI, Tableau, Matplotlib, etc.
+Data Analysis: SQL, Python (Pandas), R, Excel, etc.
+Data Modeling: Power Query, DAX, Star Schema Design, etc.
+Tools: List any other relevant tools like Power BI Service, specific cloud platforms, etc.
+💡 How to Use This Template
+Creating your own portfolio from this template is a simple, four-step process.
 
-<!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://ZekiahVirella.github.io/)
-      
-## 🔭 What I'm Currently Working On 
+1. Create a New Repository from this Template
+Click the green "Use this template" button at the top of this repository page, then select "Create a new repository".
 
-- **Project A:** Building a sales forecasting model in Python.
-- **Project B:** Creating an interactive marketing dashboard in Power BI.
+2. Name Your Repository for GitHub Pages
+This is the most important step. To turn your portfolio into a live website, you must name your new repository in the following format: your-username.github.io (Replace your-username with your actual GitHub username.)
 
+3. Customize Your Portfolio
+Open the index.html file and begin personalizing it. The file contains helpful <!--💡UPDATE: ... --> comments to guide you on where to change:
 
-## 🌱 Currently Learning 
-
-- 
-
-## 🛠️ Technical Skillset
-
-<!-- This section uses Shields.io badges. You can customize them or create your own!-->
-
-#### Data Analysis & Visualization
-<p>
-  <!-- 💡 Go to Shields.io to create your own badges -->
-  <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
-  <img src="https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
-  <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
-  <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
-</p>
-
-#### Programming & Automation
-<p>
-  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
-  <img src="https://img.shields.io/badge/R-Beginner-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
-</p>
-
-#### Business Intelligence & Analytics
-<p>
-  <img src="https://img.shields.io/badge/A%2FB%20Testing-Experienced-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
-  <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
-  <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
-  <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
-</p>
+Your name and title
+Social media links
+The "About Me" section
+Your project titles, descriptions, and links
+Your list of skills
+4. Add Your Files
+Upload your profile photo and project preview images to the assets/images/ folder.
+Upload your CV (e.g., in PDF format) to the assets/ folder.
+Create your favicon and add it to the root folder.
+Once you commit your changes, your new portfolio website will be live at https://your-username.github.io within a few minutes!
