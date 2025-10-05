@@ -17,8 +17,9 @@
 I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
 
 My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future. My journey into data analytics started with a simple curiosity: I wanted to understand the stories hidden in numbers. Over time, that curiosity grew into a passion for uncovering patterns, solving problems, and turning complex data into clear insights. I enjoy creating dashboards, models, and visualizations that not only highlight trends but also make information meaningful for both technical and non-technical audiences. For me, data isn’t just numbers—it’s a way to answer questions, tell stories, and guide smarter decisions.
-
 When I'm not working with data, I enjoy cooking new foods and solving puzzles. I love the "aha!" moment when data reveals something new and useful.
+
+
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://ZekiahVirella.github.io/)
@@ -31,8 +32,7 @@ When I'm not working with data, I enjoy cooking new foods and solving puzzles. I
 
 ## 🌱 Currently Learning 
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+- 
 
 ## 🛠️ Technical Skillset
 
